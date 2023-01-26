@@ -1,0 +1,753 @@
+[
+  {
+    "procedures": [
+      {
+        "procedure": "G8420",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E55.9 R73.09 I10 G43.009"
+      },
+      {
+        "procedure": "3078F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 J30.1 R73.09 E55.9"
+      },
+      {
+        "procedure": "3074F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 J30.1 R73.09 E55.9"
+      },
+      {
+        "procedure": "1160F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 J30.1 Z68.22 E87.5"
+      },
+      {
+        "procedure": "99213",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 J30.1 R73.03 Z68.22"
+      },
+      {
+        "procedure": "1159F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 J30.1 R73.03 Z68.22"
+      },
+      {
+        "procedure": "99606",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 J30.1 R73.03 Z68.22"
+      }
+    ]
+  },
+  {
+    "procedures": [
+      {
+        "procedure": "99214",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 E78.2 E03.9 Z68.25 H60.313 R19.7 Z83.3 Z02.1"
+      },
+      {
+        "procedure": "1160F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 E78.2 E03.9 Z68.25 H60.313 R19.7 Z83.3 Z02.1"
+      },
+      {
+        "procedure": "3074F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 E78.2 E03.9 Z68.25 H60.313 R19.7 Z83.3 Z02.1"
+      },
+      {
+        "procedure": "3078F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 E78.2 E03.9 Z68.25 H60.313 R19.7 Z83.3 Z02.1"
+      },
+      {
+        "procedure": "G8417",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 E78.2 E03.9 Z68.25 H60.313 R19.7 Z83.3 Z02.1"
+      },
+      {
+        "procedure": "36415",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 E78.2 E03.9 Z68.25 H60.313 R19.7 Z83.3 Z02.1"
+      }
+    ]
+  },
+  {
+    "procedures": [
+      {
+        "procedure": "G8417",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " Z00.01 I10 E78.2 E11.9"
+      },
+      {
+        "procedure": "3048F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 E78.2 E11.9 K21.9"
+      },
+      {
+        "procedure": "3078F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 E78.2 E11.9 K21.9"
+      },
+      {
+        "procedure": "3046F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 E78.2 E11.9 K21.9 E02 M54.5 M25.569 Z68.28"
+      },
+      {
+        "procedure": "3075F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.42 I10 E78.2 K21.9 E02 Z68.28"
+      },
+      {
+        "procedure": "99212",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.42 I10 E78.2 K21.9 E02 Z68.28 Z00.01"
+      },
+      {
+        "procedure": "99396",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.42 I10 E78.2 K21.9 E02 Z68.28 Z00.01"
+      }
+    ]
+  },
+  {
+    "procedures": [
+      {
+        "procedure": "G8420",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " S52.355A M81.0 N18.3 R07.9"
+      },
+      {
+        "procedure": "1160F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " R73.09 K21.9 N18.3 M81.0"
+      },
+      {
+        "procedure": "3074F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " K21.9 N18.3 M81.0 Z00.01 M25.511 I10 J06.0 R73.03"
+      },
+      {
+        "procedure": "3078F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " K21.9 N18.3 M81.0 M25.511 I10 R73.03 Z68.21"
+      },
+      {
+        "procedure": "99214",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " K21.9 M81.0 M25.511 I10 R73.03 Z68.21 N18.2"
+      },
+      {
+        "procedure": "36415",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " K21.9 M81.0 M25.511 I10 R73.03 Z68.21 N18.2"
+      },
+      {
+        "procedure": "90471",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " K21.9 M81.0 M25.511 I10 R73.03 Z68.21 N18.2 Z23"
+      },
+      {
+        "procedure": "90756",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " K21.9 M81.0 M25.511 I10 R73.03 Z68.21 N18.2 Z23",
+        "NDC": "70461042210"
+      }
+    ]
+  },
+  {
+    "procedures": [
+      {
+        "procedure": "G8417",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " M62.838 E78.2 K21.9 I10"
+      },
+      {
+        "procedure": "3078F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " R73.03 N18.3 G47.30 I10 K21.9 E78.2 N40.1 Z68.38"
+      },
+      {
+        "procedure": "3075F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " R73.03 N18.3 G47.30 I10 K21.9 E78.2 N40.1 Z68.38"
+      },
+      {
+        "procedure": "1160F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " R73.03 N18.3 G47.30 I10 K21.9 E78.2 N40.1 Z68.38"
+      },
+      {
+        "procedure": "99606",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " R73.03 N18.3 G47.30 I10 K21.9 E78.2 N40.1 Z68.38"
+      },
+      {
+        "procedure": "1159F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " R73.03 N18.3 G47.30 I10 K21.9 E78.2 N40.1 Z68.38"
+      },
+      {
+        "procedure": "99214",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " R73.03 N18.3 G47.30 I10 K21.9 E78.2 N40.1 Z68.38"
+      },
+      {
+        "procedure": "36415",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " R73.03 N18.3 G47.30 I10 K21.9 E78.2 N40.1 Z68.38"
+      },
+      {
+        "procedure": "90471",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " R73.03 N18.3 G47.30 I10 K21.9 E78.2 N40.1 Z68.38"
+      },
+      {
+        "procedure": "90756",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " R73.03 N18.3 G47.30 I10 K21.9 E78.2 N40.1 Z68.38",
+        "NDC": "70461042210"
+      }
+    ]
+  },
+  {
+    "procedures": [
+      {
+        "procedure": "G8417",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " Z00.01 I10 E78.2 E11.9"
+      },
+      {
+        "procedure": "3048F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 E78.2 E11.9 K21.9"
+      },
+      {
+        "procedure": "3078F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 E78.2 E11.9 K21.9"
+      },
+      {
+        "procedure": "3046F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " I10 E78.2 E11.9 K21.9 E02 M54.5 M25.569 Z68.28"
+      },
+      {
+        "procedure": "3075F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.42 I10 E78.2 K21.9 E02 Z68.28"
+      },
+      {
+        "procedure": "99212",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.42 I10 E78.2 K21.9 E02 Z68.28 Z00.01"
+      },
+      {
+        "procedure": "99396",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.42 I10 E78.2 K21.9 E02 Z68.28 Z00.01"
+      }
+    ]
+  },
+  {
+    "procedures": [
+      {
+        "procedure": "3048F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.65 I10 E78.2 Z22.51 H26.492 S90.812A Z68.33"
+      },
+      {
+        "procedure": "3044F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.65 I10 E78.2 Z22.51 H26.492 S90.812A M77.31 Z68.29"
+      },
+      {
+        "procedure": "1160F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.65 I10 E78.2 Z22.51 H26.492 M77.31 Z68.29"
+      },
+      {
+        "procedure": "3077F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.65 I10 E78.2 Z22.51 H26.492 M77.31 Z68.29 R21"
+      },
+      {
+        "procedure": "3079F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.65 I10 E78.2 Z22.51 H26.492 M77.31 Z68.29 R21"
+      },
+      {
+        "procedure": "99214",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": ""
+      },
+      {
+        "procedure": "36415",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.65 I10 E78.2 Z22.51 H26.492 M77.31 Z68.29 R21"
+      },
+      {
+        "procedure": "90471",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.65 I10 E78.2 Z22.51 H26.492 M77.31 Z68.29 J30.89"
+      },
+      {
+        "procedure": "90756",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.65 I10 E78.2 Z22.51 H26.492 M77.31 Z68.29 J30.89",
+        "NDC": "70461042210"
+      }
+    ]
+  },
+  {
+    "procedures": [
+      {
+        "procedure": "3048F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E03.9 D25.9 K21.9 I10"
+      },
+      {
+        "procedure": "G8417",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E03.9 D25.9 K21.9 I10"
+      },
+      {
+        "procedure": "3078F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E03.9 D25.9 K21.9 I10 E11.9 E78.2 D50.9 M65.311"
+      },
+      {
+        "procedure": "3052F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E03.9 D25.9 K21.9 I10 E11.9 E78.2 D50.9 D72.829"
+      },
+      {
+        "procedure": "3075F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E03.9 D25.9 K21.9 I10 E11.9 E78.2 D50.9 D72.829"
+      },
+      {
+        "procedure": "36415",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E03.9 D25.9 K21.9 I10 E11.9 E78.2 D50.9 D72.829"
+      },
+      {
+        "procedure": "99214",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E03.9 D25.9 K21.9 I10 E11.9 E78.2 D50.9 D72.829"
+      },
+      {
+        "procedure": "90471",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E03.9 D25.9 K21.9 I10 E11.9 E78.2 D50.9 D72.829"
+      },
+      {
+        "procedure": "90756",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E03.9 D25.9 K21.9 I10 E11.9 E78.2 D50.9 D72.829",
+        "NDC": "70461042210"
+      }
+    ]
+  },
+  {
+    "procedures": [
+      {
+        "procedure": "G8417",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.42 M43.06 E78.2 I10 N18.3 K59.00 Z00.01 Z68.28"
+      },
+      {
+        "procedure": "3044F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.42 M43.06 E78.2 I10 N18.3 K59.00 Z68.28"
+      },
+      {
+        "procedure": "3078F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.42 M43.06 E78.2 I10 N18.3 K59.00 Z68.27"
+      },
+      {
+        "procedure": "3050F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.42 M43.06 E78.2 I10 N18.3 K59.00 Z68.27"
+      },
+      {
+        "procedure": "3075F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.42 M43.06 E78.2 I10 N18.3 K59.00 Z68.27"
+      },
+      {
+        "procedure": "1160F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": ""
+      },
+      {
+        "procedure": "99212",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.42 M43.06 E78.2 I10 N18.3 K59.00 Z68.27"
+      }
+    ]
+  },
+  {
+    "procedures": [
+      {
+        "procedure": "G8417",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " Z68.30 Z83.3 Z00.01 E03.9"
+      },
+      {
+        "procedure": "99213",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " Z83.3 N92.6 E03.9 E78.2 G56.02 R48.0 Z01.818 Z68.33"
+      }
+    ]
+  },
+  {
+    "procedures": [
+      {
+        "procedure": "3048F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " Z68.30 E11.9 E89.0 Z98.84"
+      },
+      {
+        "procedure": "3044F",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " Z68.30 E11.9 E89.0 Z98.84"
+      },
+      {
+        "procedure": "G8417",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " Z68.30 E11.9 E89.0 Z98.84"
+      },
+      {
+        "procedure": "96372",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.9 E89.0 Z98.84 D50.8 K64.9 J30.2 K21.9 H81.13"
+      },
+      {
+        "procedure": "J3420",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.9 E89.0 Z98.84 D50.8 K64.9 J30.2 K21.9 H81.13",
+        "NDC": "70069000510"
+      },
+      {
+        "procedure": "99212",
+        "Units": "1",
+        "M1": "",
+        "M2": "",
+        "M3": "",
+        "M4": "",
+        "Diagnosis Code": " E11.9 E89.0 Z98.84 D50.8 K64.9 J30.2 K21.9 H81.13"
+      }
+    ]
+  }
+]
